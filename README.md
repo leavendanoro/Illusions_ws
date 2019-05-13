@@ -24,7 +24,7 @@ Complete la tabla:
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
 |RGB      |Cognitiva / Fictions  |- van Bezold WM (1876) Una introducción al color. Nueva York: Wiley. - King, DL (1988) La asimilación se debe a una totalidad percibida y el contraste se debe a dos totalidades percibidas. Nuevas ideas en psicología 6 (3)- Liu & Schor (2005) Efectos de la oclusión parcial en la diferencia de inclinación percibida. JOV 5 (4) |UP & DOWN grosor lineas , LEFT & RIGHT traslasión| NA | 
-|         |                      |            |                                    |                             |
+|TurningStar|Movimiento / Geométrica|- van der Helm PA (2007) Ilusiones de movimiento y velocidad caleidoscópicas.-Página de demostración propia de Peter van der Helm.|UP & DOWN velocidad rotación , LEFT & RIGHT opacidad | NA|
 |         |                      |            |                                    |                             |
 |         |                      |            |                                    |                             |
 |         |                      |            |                                    |                             |
